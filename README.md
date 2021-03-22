@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Omri Attal, currently pursuing a Computer Science with Big Data bachelors degree from Ben-Gurion University of the Negev in Israel.
+
+🔭 I’m currently working on: NBA games winning predictor in Scikit and a computer vision project.
+
+📫 Looking for my first software developer poisition! Contact me at: omriattal@gmail.com for CV.
+
 
 <!--
 **omriattal/omriattal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
