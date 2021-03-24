@@ -9,7 +9,7 @@ Other projects that I've worked on:
 
 📫 Looking for my first software developer poisition! Contact me at: omriattal@gmail.com for CV.
 
-
+Long live Cayde-6! 
 <!--
 **omriattal/omriattal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
