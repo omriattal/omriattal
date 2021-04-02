@@ -9,7 +9,7 @@ My name is Omri Attal, currently pursuing a Computer Science with Big Data bache
 * ⚡ Testmaster - Developed a social platform for university students that helps them in exams preparation. Currently consisting of around 700 members and is growing every day. Link: www.test-master.org
 * ⚡ Cryptocurrency trading bot - Built an autonomous bot as a part of a team. The bot buys and sells cryptocurrency according to its own strategies. This is a multi-threaded OOP Java program that uses Binance’s Rest and WebSocket APIs. Link: https://github.com/yonathan95/BinanceTradingBot
 
-📫 Looking for my first software developer poisition! Contact me at: omriattal@gmail.com for CV.
+📫 Looking for my first software developer position! Contact me at: omriattal@gmail.com for CV.
 
 Long live Cayde-6! 
 <!--
