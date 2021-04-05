@@ -1,9 +1,7 @@
 ### Hi there 👋
 My name is Omri Attal, currently pursuing a Computer Science with Big Data bachelors degree from Ben-Gurion University of the Negev in Israel.
 
-#### 🔭 Currently working on a:
-* Scikit machine learning project that predicts NBA game winners.
-* Disclosed computer vision project.
+#### 🔭 Currently working on a: Scikit machine learning project that predicts NBA game winners.
 
 #### Other projects that I've worked on:
 * ⚡ Testmaster - Developed a social platform for university students that helps them in exams preparation. Currently consisting of around 700 members and is growing every day. Link: www.test-master.org
