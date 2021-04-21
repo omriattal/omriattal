@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Omri Attal, currently pursuing a Computer Science with Big Data bachelors degree from Ben-Gurion University of the Negev in Israel.
-I'm also teaching high school student Python in my free time. 
+I'm also teaching high school students Python in my free time. 
 
 
 #### Currently working on a: 
