@@ -8,6 +8,7 @@ I'm also teaching high school students Python in my free time.
 
 🔭 Probabilistic programming project.
 
+🔭 Expanding the XV6-RISCV Operating System, as part of the course "Operating Systems".
 
 #### Other projects that I've worked on:
 * ⚡ Testmaster - Developed a social platform for university students that helps them in exams preparation. Currently consisting of around 700 members and is growing every day. Link: www.test-master.org
@@ -15,7 +16,6 @@ I'm also teaching high school students Python in my free time.
 
 📫 Looking for my first software developer position! Contact me at: omriattal@gmail.com for CV.
 
-Long live Cayde-6! 
 <!--
 **omriattal/omriattal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
