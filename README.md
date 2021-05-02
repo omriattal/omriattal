@@ -1,6 +1,5 @@
 ### Hi there 👋
-My name is Omri Attal, currently pursuing a Computer Science with Big Data bachelors degree from Ben-Gurion University of the Negev in Israel.
-I'm also a RT/Embedded software engineer at [Valens](https://www.valens.com/).
+My name is Omri Attal, an RT/Embedded software engineer at [Valens](https://www.valens.com/). Currently pursuing a Computer Science with Big Data bachelors degree from Ben-Gurion University of the Negev in Israel. Also teaching high school students Python in my free time.
 
 
 #### Currently working on a: 
