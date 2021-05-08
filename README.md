@@ -7,7 +7,7 @@ My name is Omri Attal, a RT/Embedded software engineer at [Valens](https://www.v
 
 🔭 Probabilistic programming project.
 
-🔭 Expanding the XV6-RISCV Operating System, as part of the course "Operating Systems".
+🔭 Expanding the XV6-RISCV operating system as part of the course "Operating Systems".
 
 #### Other projects that I've worked on:
 * ⚡ Testmaster - Developed a social platform for university students that helps them in exams preparation. Currently consisting of around 700 members and is growing every day. Link: www.test-master.org
