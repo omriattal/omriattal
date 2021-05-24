@@ -1,6 +1,6 @@
 ### Hi there 👋
 Currently pursuing a Computer Science with Big Data bachelors degree from Ben-Gurion University of the Negev in Israel.
-
+Working at [Valens](https://www.valens.com/).
 
 #### Currently working on a: 
 🔭 Scikit machine learning project that predicts NBA game winners.
