@@ -1,5 +1,6 @@
 ### Hi there 👋
-Currently pursuing a Computer Science with Big Data bachelors degree from Ben-Gurion University of the Negev in Israel.
+
+My name is Omri Attal and I'm currently pursuing a Computer Science with Big Data bachelors degree from Ben-Gurion University of the Negev in Israel.
 
 Working at [Valens](https://www.valens.com/) as an RT/embedded software engineer.
 
