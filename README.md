@@ -4,8 +4,6 @@ My name is Omri Attal and I'm currently pursuing a Computer Science with Big Dat
 
 Working at [Valens](https://www.valens.com/) as an RT/embedded software engineer.
 
-Currently working on a probabilistic programming project - translating the book [Agent Models](https://agentmodels.org/) from WebPPL to Gen.
-
 #### Other projects that I've worked on:
 * ⚡ Testmaster - Developed a social platform for university students that helps them in exams preparation. Currently consisting of around 700 members and is growing every day. Link: www.test-master.org
 * ⚡ Cryptocurrency trading bot - Built an autonomous bot as a part of a team. The bot buys and sells cryptocurrency according to its own strategies. This is a multi-threaded OOP Java program that uses Binance’s API. Link: https://github.com/yonathan95/BinanceTradingBot
