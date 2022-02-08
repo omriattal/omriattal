@@ -8,7 +8,6 @@ Working at [Valens](https://www.valens.com/) as an RT/embedded software engineer
 * ⚡ Testmaster - Developed a social platform for university students that helps them in exams preparation. Currently consisting of around 700 members and is growing every day. Link: www.test-master.org
 * ⚡ Cryptocurrency trading bot - Built an autonomous bot as a part of a team. The bot buys and sells cryptocurrency according to its own strategies. This is a multi-threaded OOP Java program that uses Binance’s API. Link: https://github.com/yonathan95/BinanceTradingBot
 * ⚡ Translating some Agent Models book chapters to Julia using Gen as a probablistic programming language. Link: https://github.com/Roeezz/AgentModelsJulia
-* ⚡ Peer 2 Peer program where each client shares its local operations made on a common string, and in the end all local strings converge. This is done using Lamport timestamp  and CRDT algorithms. Link: https://github.com/yossycarmeli/p2p
  
 <!--
 **omriattal/omriattal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
