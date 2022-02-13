@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 My name is Omri Attal and I'm currently working at [Valens](https://www.valens.com/) as an RT/embedded software engineer.
-BSc in Computer Science with Big Data. Studied in Ben-Gurion University of the Negev in Israel.
+
+i hold a bachelor's degree in Computer Science with Big Data. Studied in Ben-Gurion University of the Negev in Israel.
 
 #### Other projects that I've worked on:
 * ⚡ Testmaster - Developed a social platform for university students that helps them in exams preparation. Currently consisting of around 700 members and is growing every day. Link: www.test-master.org
