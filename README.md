@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Omri Attal and I'm currently working at [Check Point Software Technologies](https://careers.checkpoint.com/) as a Backend software developer.
+
 I also worked in Valens Semiconductor as an embedded software engineer.
 
 I hold a bachelor's degree in Computer Science with Big Data. Studied in Ben-Gurion University of the Negev in Israel.
